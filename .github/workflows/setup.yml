@@ -10,7 +10,8 @@ on:
 #
 # 1. Set up the following secrets in your repository: 
 #   AZURE_RESOURCE_GROUP 
-#   STORAGE_ACCOUNT 
+#   STORAGE_ACCOUNT
+#   Test1
 env:
   AZURE_RESOURCE_GROUP: DS_SPRINT_2023  #set this to your resource group name 
   #STORAGE_ACCOUNT: storage-account-name           #set this to your storage-account-name
